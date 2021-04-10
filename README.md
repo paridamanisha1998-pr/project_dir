@@ -1,2 +1,2 @@
 # projectgit
-for git and github assignment
+This is for Git and GitHub assignment
